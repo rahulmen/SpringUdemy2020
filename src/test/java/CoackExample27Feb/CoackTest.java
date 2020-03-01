@@ -17,7 +17,6 @@ public class CoackTest {
 
     coach.trainingUpdate();
 
-
     classPathXmlApplicationContext.close();
 
 

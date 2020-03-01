@@ -8,9 +8,8 @@
     http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-    <bean id = "coachBean" class="CoachExample27Feb.FootballCoach">
-    </bean>
-
+    <bean id = "coachBean" class="CoachExample27Feb.FootballCoach"/>
+    <bean id = "dataBean" class="DataBaseExample01Mar.OracleDataBase"/>
 </beans>
 
 
