@@ -2,10 +2,10 @@ package CoachExample27Feb;
 
 public class FootballCoach implements Coach {
 
-  private League league;
+  private League FootBallleague;
 
   public FootballCoach(League league){
-    this.league=league;
+    this.FootBallleague=league;
   }
 
   public void trainingUpdate() {
@@ -13,7 +13,7 @@ public class FootballCoach implements Coach {
   }
 
   public void whichTeam() {
-    String[] teams = this.league.getTeam();
+    String[] teams = this.FootBallleague.getTeam();
     System.out.print("Teams are :");
     for(String team:teams){
       System.out.print(team+" ");
