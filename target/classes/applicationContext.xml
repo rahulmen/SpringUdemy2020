@@ -7,9 +7,25 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
+    <bean id="cricketLeague" class="CoachExample27Feb.Ashes">
+    </bean>
 
-    <bean id = "coachBean" class="CoachExample27Feb.FootballCoach"/>
-    <bean id = "dataBean" class="DataBaseExample01Mar.OracleDataBase"/>
+    <bean id="footballLeague" class="CoachExample27Feb.LaLiga">
+    </bean>
+
+
+    <bean id = "coachBeanCricket" class="CoachExample27Feb.CricketCoach">
+      <constructor-arg ref="cricketLeague"/>
+    </bean>
+
+    <bean id = "coachBeanFootBall" class="CoachExample27Feb.FootballCoach">
+        <constructor-arg ref="footballLeague"/>
+    </bean>
+
+    <bean id = "dataBean" class="DataBaseExample01Mar.OracleDataBase">
+    </bean>
+
+
 </beans>
 
 

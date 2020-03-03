@@ -13,9 +13,10 @@ public class CoackTest {
 
     System.getProperty("user.dir");
 
-    Coach coach = classPathXmlApplicationContext.getBean("coachBean", Coach.class);
+    Coach coach = classPathXmlApplicationContext.getBean("coachBeanFootBall", Coach.class);
 
     coach.trainingUpdate();
+    coach.whichTeam();
 
     classPathXmlApplicationContext.close();
 
