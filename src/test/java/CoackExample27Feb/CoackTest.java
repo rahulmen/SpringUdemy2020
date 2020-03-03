@@ -1,6 +1,7 @@
 package CoackExample27Feb;
 
 import CoachExample27Feb.Coach;
+import CoachExample27Feb.CricketCoach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class CoackTest {
@@ -14,10 +15,11 @@ public class CoackTest {
     System.getProperty("user.dir");
 
     Coach coach = classPathXmlApplicationContext.getBean("coachBeanCricket", Coach.class);
-
-    coach.trainingUpdate();
-    coach.whichTeam();
-
+    CricketCoach cricketCoach = (CricketCoach)coach;
+    cricketCoach.trainingUpdate();
+    cricketCoach.whichTeam();
+    System.out.println("Coach Name : "+cricketCoach.getCoachName());;
+    System.out.println("Coack EmailAddress : "+cricketCoach.getCoachEmailAddress());
     classPathXmlApplicationContext.close();
 
 
