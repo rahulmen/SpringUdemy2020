@@ -42,4 +42,12 @@ public class CricketCoach implements Coach {
     }
     System.out.println();
   }
+
+  public void CricketCoachInitialisation(){
+    System.out.println("Coach is hired");
+  }
+
+  public void CricketCoachDestroy(){
+    System.out.println("Coach is Fired");
+  }
 }
