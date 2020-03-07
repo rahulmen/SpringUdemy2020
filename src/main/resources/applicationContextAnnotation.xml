@@ -9,7 +9,7 @@
 
   <context:component-scan base-package="SpringAnnotationExample05March"/>
 
-  <bean id="coachBean" class="SpringAnnotationExample05March.CricketCoach"></bean>
+<!--  <bean id="coachBean" class="SpringAnnotationExample05March.CricketCoach"></bean>-->
 
 </beans>
 

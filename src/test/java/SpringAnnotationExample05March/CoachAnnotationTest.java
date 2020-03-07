@@ -7,8 +7,9 @@ public class CoachAnnotationTest {
   public static void main(String[] args) {
 
     ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext("applicationContextAnnotation.xml");
-    Coach coach = classPathXmlApplicationContext.getBean("coachBean",Coach.class);
+    Coach coach = classPathXmlApplicationContext.getBean("cricketCoachBean",Coach.class);
     coach.getDailyWorkOut();
+    classPathXmlApplicationContext.close();
   }
 
 

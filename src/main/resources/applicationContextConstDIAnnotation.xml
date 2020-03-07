@@ -7,9 +7,7 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-  <context:component-scan base-package="SpringAnnotationExample05March"/>
-
-<!--  <bean id="coachBean" class="SpringAnnotationExample05March.CricketCoach"></bean>-->
+  <context:component-scan base-package="SpringConstructorDependencyInjectionUsingAnnotation"/>
 
 </beans>
 
