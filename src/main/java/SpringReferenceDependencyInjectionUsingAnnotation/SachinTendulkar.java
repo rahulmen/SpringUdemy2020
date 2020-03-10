@@ -15,8 +15,9 @@ public class SachinTendulkar implements Player {
   private String country = "India";
 
   SachinTendulkar(){
-    System.out.println("Default Player Constructor");
+    System.out.println(this.getClass().getSimpleName()+" Bean Created");
   }
+
 
   public String game() {
     System.out.println(career.carrerInfo(this,age,country));

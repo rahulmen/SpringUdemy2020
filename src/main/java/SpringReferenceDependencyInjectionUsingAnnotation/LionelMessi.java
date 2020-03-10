@@ -21,10 +21,10 @@ public class LionelMessi implements Player {
   private int age = 34;
   private String country = "Argentina";
 
-
   LionelMessi(){
-    System.out.println("Default Player Constructor");
+    System.out.println(this.getClass().getSimpleName()+" Bean Created");
   }
+
 
   public String game() {
     System.out.println(career.carrerInfo(this,age,country));

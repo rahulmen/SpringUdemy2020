@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class SaniaMirza implements Player {
+
   @Qualifier("playerCareer")
   @Autowired
   private Career career;
@@ -14,7 +15,7 @@ public class SaniaMirza implements Player {
   private String country = "Pakistan";
 
   SaniaMirza(){
-    System.out.println("Default Player Constructor");
+    System.out.println(this.getClass().getSimpleName()+" Bean Created");
   }
 
   public String game() {

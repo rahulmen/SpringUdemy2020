@@ -15,8 +15,9 @@ public class Varvade implements Player {
   private String country = "Barcaleno";
 
   Varvade(){
-    System.out.println("Default Coach Constructor");
+    System.out.println(this.getClass().getSimpleName()+" Bean Created");
   }
+
 
   public String game() {
     System.out.println(career.carrerInfo(this,age,country));
