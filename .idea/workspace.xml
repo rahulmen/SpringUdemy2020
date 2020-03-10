@@ -3,18 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,40 +172,40 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1583260319061" />
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom" timestamp="1583827775578">
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom" timestamp="1583831154172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583827775578" />
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583831154172" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1386.877@0.23.1386.877" timestamp="1583077694280" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1388.877@0.23.1388.877" timestamp="1583124644780" />
     <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1392.877@0.23.1392.877" timestamp="1583748542788" />
     <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1399.877@0.23.1399.877" timestamp="1583308868401" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1402.877@0.23.1402.877" timestamp="1583401503002" />
     <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1404.877@0.23.1404.877" timestamp="1583585678939" />
-    <state width="1398" height="258" key="GridCell.Tab.0.center" timestamp="1583827775576">
+    <state width="1398" height="258" key="GridCell.Tab.0.center" timestamp="1583831154171">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583827775576" />
+    <state width="1398" height="258" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583831154171" />
     <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1386.877@0.23.1386.877" timestamp="1583077694279" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1388.877@0.23.1388.877" timestamp="1583124644779" />
     <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1392.877@0.23.1392.877" timestamp="1583748542787" />
     <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1399.877@0.23.1399.877" timestamp="1583308868397" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1402.877@0.23.1402.877" timestamp="1583401502999" />
     <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1404.877@0.23.1404.877" timestamp="1583585678938" />
-    <state width="1398" height="258" key="GridCell.Tab.0.left" timestamp="1583827775575">
+    <state width="1398" height="258" key="GridCell.Tab.0.left" timestamp="1583831154171">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583827775575" />
+    <state width="1398" height="258" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583831154171" />
     <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1386.877@0.23.1386.877" timestamp="1583077694278" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1388.877@0.23.1388.877" timestamp="1583124644779" />
     <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1392.877@0.23.1392.877" timestamp="1583748542786" />
     <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1399.877@0.23.1399.877" timestamp="1583308868396" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1402.877@0.23.1402.877" timestamp="1583401502999" />
     <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1404.877@0.23.1404.877" timestamp="1583585678938" />
-    <state width="1398" height="258" key="GridCell.Tab.0.right" timestamp="1583827775578">
+    <state width="1398" height="258" key="GridCell.Tab.0.right" timestamp="1583831154172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583827775578" />
+    <state width="1398" height="258" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583831154172" />
     <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1386.877@0.23.1386.877" timestamp="1583077694280" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1388.877@0.23.1388.877" timestamp="1583124644780" />
     <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1392.877@0.23.1392.877" timestamp="1583748542788" />
