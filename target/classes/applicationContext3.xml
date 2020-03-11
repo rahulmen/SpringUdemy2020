@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--    <context:property-placeholder location="classpath:coachPersonalData.properties"/>-->
+
+    <bean id="cricketLeague" class="CoachExample27Feb.Ashes">
+    </bean>
+
+    <bean id="footballLeague" class="CoachExample27Feb.LaLiga">
+    </bean>
+
+
+    <bean id = "coachBeanCricket" class="CoachExample27Feb.CricketCoach" scope="singleton" init-method="CricketCoachInitialisation" destroy-method="CricketCoachDestroy">
+      <property name="criLeague" ref="cricketLeague"/>
+      <property name="coachName" value="${cricketCoachName}"/>
+      <property name="coachEmailAddress" value="${cricketCoachEmail}"/>
+    </bean>
+
+
+
+</beans>
+
+
+
+
+

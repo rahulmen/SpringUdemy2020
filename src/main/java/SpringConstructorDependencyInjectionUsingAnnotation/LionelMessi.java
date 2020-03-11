@@ -20,7 +20,7 @@ public class LionelMessi implements Player {
 
 
   @Autowired
-  LionelMessi(Career career){
+  LionelMessi(@Qualifier("playerCareer")Career career){
     this.career=career;
   }
 

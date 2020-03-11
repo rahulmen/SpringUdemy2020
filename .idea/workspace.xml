@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava/FortuneServive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/CoachCareer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml/BeanInitialiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml/FortuneServive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SpringScopeAnnotationWithoutUsingXml/CoachTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/LionelMessi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/LionelMessi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/PlayerCareer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/PlayerCareer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/SachinTendulkar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/SachinTendulkar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/SaniaMirza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/SaniaMirza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +35,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -47,30 +63,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="SpringReferenceDependencyInjectionUsingAnnotation" />
-      <recent name="SpringConstructorDependencyInjectionUsingAnnotation" />
-      <recent name="CoackExample27Feb" />
-      <recent name="DataBaseExample01Mar" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/SpringScopeAnnotationWithoutUsingXml" />
+      <recent name="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation" />
       <recent name="$PROJECT_DIR$/src/test/java" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SpringBeanDefinationUsingJava" />
+      <recent name="SpringConstructorDependencyInjectionUsingAnnotation" />
+      <recent name="SpringReferenceDependencyInjectionUsingAnnotation" />
+      <recent name="CoackExample27Feb" />
+      <recent name="DataBaseExample01Mar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlayerTest (1)">
+  <component name="RunManager" selected="Application.CoachTest (1)">
     <configuration name="CoachAnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SpringAnnotationExample05March.CoachAnnotationTest" />
       <module name="UdemySpringLearning" />
@@ -84,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoackTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoackExample27Feb.CoackTest2" />
+    <configuration name="CoachTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringBeanDefinationUsingJava.CoachTest" />
       <module name="UdemySpringLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoackExample27Feb.*" />
+          <option name="PATTERN" value="SpringBeanDefinationUsingJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoackTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoackExample27Feb.CoackTest3" />
+    <configuration name="CoachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutUsingXml.CoachTest" />
       <module name="UdemySpringLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoackExample27Feb.*" />
+          <option name="PATTERN" value="SpringScopeAnnotationWithoutUsingXml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PlayerTest (1)" />
+        <item itemvalue="Application.CoachTest (1)" />
+        <item itemvalue="Application.CoachTest" />
         <item itemvalue="Application.PlayerTest" />
+        <item itemvalue="Application.PlayerTest (1)" />
         <item itemvalue="Application.CoachAnnotationTest" />
-        <item itemvalue="Application.CoackTest3" />
-        <item itemvalue="Application.CoackTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -160,55 +178,68 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="854" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1583585447558">
-      <screen x="0" y="23" width="1404" height="877" />
+    <state x="847" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1583945655392">
+      <screen x="0" y="23" width="1393" height="877" />
     </state>
-    <state x="876" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583259115538" />
+    <state x="876" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583853096102" />
     <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1386.877@0.23.1386.877" timestamp="1583077396861" />
+    <state x="847" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1393.877@0.23.1393.877" timestamp="1583945655392" />
     <state x="852" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1401.877@0.23.1401.877" timestamp="1583400955169" />
     <state x="853" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1402.877@0.23.1402.877" timestamp="1583401136078" />
     <state x="854" y="118" key="#com.intellij.ide.util.MemberChooser/0.23.1404.877@0.23.1404.877" timestamp="1583585447558" />
+    <state x="436" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583948055834">
+      <screen x="0" y="23" width="1393" height="877" />
+    </state>
+    <state x="436" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1393.877@0.23.1393.877" timestamp="1583948055834" />
     <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1583260319061">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1583260319061" />
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom" timestamp="1583831154172">
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1583832798750">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583831154172" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1583832798750" />
+    <state width="1354" height="346" key="GridCell.Tab.0.bottom" timestamp="1583948216554">
+      <screen x="0" y="23" width="1393" height="877" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583853444219" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1386.877@0.23.1386.877" timestamp="1583077694280" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1388.877@0.23.1388.877" timestamp="1583124644780" />
     <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1392.877@0.23.1392.877" timestamp="1583748542788" />
+    <state width="1354" height="346" key="GridCell.Tab.0.bottom/0.23.1393.877@0.23.1393.877" timestamp="1583948216554" />
     <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1399.877@0.23.1399.877" timestamp="1583308868401" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1402.877@0.23.1402.877" timestamp="1583401503002" />
     <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1404.877@0.23.1404.877" timestamp="1583585678939" />
-    <state width="1398" height="258" key="GridCell.Tab.0.center" timestamp="1583831154171">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1354" height="346" key="GridCell.Tab.0.center" timestamp="1583948216553">
+      <screen x="0" y="23" width="1393" height="877" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583831154171" />
+    <state width="1398" height="258" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583853444218" />
     <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1386.877@0.23.1386.877" timestamp="1583077694279" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1388.877@0.23.1388.877" timestamp="1583124644779" />
     <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1392.877@0.23.1392.877" timestamp="1583748542787" />
+    <state width="1354" height="346" key="GridCell.Tab.0.center/0.23.1393.877@0.23.1393.877" timestamp="1583948216553" />
     <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1399.877@0.23.1399.877" timestamp="1583308868397" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1402.877@0.23.1402.877" timestamp="1583401502999" />
     <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1404.877@0.23.1404.877" timestamp="1583585678938" />
-    <state width="1398" height="258" key="GridCell.Tab.0.left" timestamp="1583831154171">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1354" height="346" key="GridCell.Tab.0.left" timestamp="1583948216553">
+      <screen x="0" y="23" width="1393" height="877" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583831154171" />
+    <state width="1398" height="258" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583853444217" />
     <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1386.877@0.23.1386.877" timestamp="1583077694278" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1388.877@0.23.1388.877" timestamp="1583124644779" />
     <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1392.877@0.23.1392.877" timestamp="1583748542786" />
+    <state width="1354" height="346" key="GridCell.Tab.0.left/0.23.1393.877@0.23.1393.877" timestamp="1583948216553" />
     <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1399.877@0.23.1399.877" timestamp="1583308868396" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1402.877@0.23.1402.877" timestamp="1583401502999" />
     <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1404.877@0.23.1404.877" timestamp="1583585678938" />
-    <state width="1398" height="258" key="GridCell.Tab.0.right" timestamp="1583831154172">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1354" height="346" key="GridCell.Tab.0.right" timestamp="1583948216554">
+      <screen x="0" y="23" width="1393" height="877" />
     </state>
-    <state width="1398" height="258" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583831154172" />
+    <state width="1398" height="258" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583853444218" />
     <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1386.877@0.23.1386.877" timestamp="1583077694280" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1388.877@0.23.1388.877" timestamp="1583124644780" />
     <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1392.877@0.23.1392.877" timestamp="1583748542788" />
+    <state width="1354" height="346" key="GridCell.Tab.0.right/0.23.1393.877@0.23.1393.877" timestamp="1583948216554" />
     <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1399.877@0.23.1399.877" timestamp="1583308868400" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1402.877@0.23.1402.877" timestamp="1583401503001" />
     <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1404.877@0.23.1404.877" timestamp="1583585678939" />
@@ -248,9 +279,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="383" y="214" width="673" height="472" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1583260147472" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583401001741">
-      <screen x="0" y="23" width="1401" height="877" />
+    <state x="396" y="195" width="689" height="694" key="search.everywhere.popup" timestamp="1583831525555">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="396" y="195" width="689" height="694" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583831525555" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1401.877@0.23.1401.877" timestamp="1583401001741" />
   </component>
   <component name="XDebuggerManager">

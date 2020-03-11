@@ -1,6 +1,7 @@
 package SpringConstructorDependencyInjectionUsingAnnotation;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -11,7 +12,7 @@ public class SaniaMirza implements Player {
   private String country = "Pakistan";
 
   @Autowired
-  SaniaMirza(Career career){
+  SaniaMirza(@Qualifier("playerCareer") Career career){
     this.career=career;
   }
 
