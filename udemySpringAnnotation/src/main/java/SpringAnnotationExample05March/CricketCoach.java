@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class CricketCoach implements Coach {
 
   public void getDailyWorkOut() {
-    System.out.println("Do 4 km running");
+    System.out.println("Do 4 km running for Cricket Match");
   }
 }

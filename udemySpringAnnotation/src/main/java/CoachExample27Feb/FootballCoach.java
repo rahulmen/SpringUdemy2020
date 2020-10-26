@@ -41,5 +41,6 @@ public class FootballCoach implements Coach {
     for(String team:teams){
       System.out.print(team+" ");
     }
+    System.out.println();
   }
 }

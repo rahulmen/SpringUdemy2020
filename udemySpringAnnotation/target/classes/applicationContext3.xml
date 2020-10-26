@@ -9,20 +9,18 @@
 
 <!--    <context:property-placeholder location="classpath:coachPersonalData.properties"/>-->
 
-    <bean id="cricketLeague" class="CoachExample27Feb.Ashes">
+    <bean id="cricketLeague" class="CoachExample27Feb.Ashes" lazy-init="true">
     </bean>
 
-    <bean id="footballLeague" class="CoachExample27Feb.LaLiga">
-    </bean>
-
-
-    <bean id = "coachBeanCricket" class="CoachExample27Feb.CricketCoach" scope="singleton" init-method="CricketCoachInitialisation" destroy-method="CricketCoachDestroy">
+    <bean id = "coachBeanCricket" class="CoachExample27Feb.CricketCoach" scope="singleton" init-method="CricketCoachInitialisation" destroy-method="CricketCoachDestroy" lazy-init="true">
       <property name="criLeague" ref="cricketLeague"/>
       <property name="coachName" value="${cricketCoachName}"/>
       <property name="coachEmailAddress" value="${cricketCoachEmail}"/>
     </bean>
 
 
+    <bean id="footballLeague" class="CoachExample27Feb.LaLiga" lazy-init="true">
+    </bean>
 
 </beans>
 

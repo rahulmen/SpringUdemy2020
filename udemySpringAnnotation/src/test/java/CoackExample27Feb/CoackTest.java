@@ -16,10 +16,10 @@ public class CoackTest {
 
     Coach coach = classPathXmlApplicationContext.getBean("coachBeanCricket", Coach.class);
     CricketCoach cricketCoach = (CricketCoach)coach;
-    cricketCoach.trainingUpdate();
-    cricketCoach.whichTeam();
     System.out.println("Coach Name : "+cricketCoach.getCoachName());;
     System.out.println("Coack EmailAddress : "+cricketCoach.getCoachEmailAddress());
+    cricketCoach.whichTeam();
+    cricketCoach.trainingUpdate();
     classPathXmlApplicationContext.close();
 
   }

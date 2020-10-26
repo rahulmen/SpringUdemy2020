@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="udemySpringAnnotation" />
         <module name="udemySpringMVC" />
+        <module name="udemySpringAnnotation" />
       </profile>
     </annotationProcessing>
   </component>

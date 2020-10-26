@@ -16,15 +16,15 @@ public class CoackTest2 {
 
     Coach coach = classPathXmlApplicationContext.getBean("coachBeanFootBall", Coach.class);
     FootballCoach footballCoach = (FootballCoach) coach;
-    footballCoach.trainingUpdate();
     footballCoach.whichTeam();
+    footballCoach.trainingUpdate();
     System.out.println("Coach Name : "+footballCoach.getCoachName());;
     System.out.println("Coack EmailAddress : "+footballCoach.getCoachEmailAddress());
 
     Coach coach1 = classPathXmlApplicationContext.getBean("coachBeanFootBall", Coach.class);
     FootballCoach footballCoach1 = (FootballCoach) coach1;
-    footballCoach1.trainingUpdate();
     footballCoach1.whichTeam();
+    footballCoach1.trainingUpdate();
     System.out.println("Coach Name : "+footballCoach1.getCoachName());;
     System.out.println("Coack EmailAddress : "+footballCoach1.getCoachEmailAddress());
 

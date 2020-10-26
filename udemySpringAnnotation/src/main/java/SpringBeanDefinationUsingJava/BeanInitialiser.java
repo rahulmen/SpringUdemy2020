@@ -4,6 +4,7 @@ import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Lazy;
 
 @Configuration
 public class BeanInitialiser {
@@ -18,14 +19,22 @@ public class BeanInitialiser {
     System.out.println("Beans are destroyed");
   }
 
-  @Bean
-  public Coach cricketCoach(){
+  @Bean @Lazy
+  public Coach headCricketCoach(){
     return new CricketCoach(happyFortuneService());
   }
 
-  @Bean
+  @Bean @Lazy
+  public Coach subHeadCricketCoach(){
+    return new CricketCoach(sadFortuneService());
+  }
+
+  @Bean @Lazy
   public FortuneServive happyFortuneService(){
     return new HappyFortuneService();
   }
+
+  @Bean @Lazy
+  public FortuneServive sadFortuneService() { return new SadFortuneService(); }
 
 }

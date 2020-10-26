@@ -20,7 +20,7 @@ public class CoachTest {
 
     System.out.println("Is it Singleton : "+(coach==coach1));
 
-    System.out.println("Memory Location Same of both beans:\n"+coach+"\n"+coach1);
+    System.out.println("Memory Location Same of both beans:"+coach+" and "+coach1);
 
     System.out.println(cricketCoach.getCricketCoachEmail());
 
