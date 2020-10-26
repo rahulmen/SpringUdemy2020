@@ -13,6 +13,8 @@ public class PlayerCareer implements Career {
   private Random random = new Random();
 
   public String carrerInfo(Player player,int age, String country) {
+    System.out.println("=====================All Beans Initialised=====================\n");
+    System.out.println("=====================SPRING EXECUTION STARTED========================");
     return "Player Name :"+player.getClass().getSimpleName()+"\n"+"Player age :"+age+"\nPlayer Country: "+country+"\nLeft Year: "+lotteryLeftYear[random.nextInt(lotteryLeftYear.length)];
   }
 

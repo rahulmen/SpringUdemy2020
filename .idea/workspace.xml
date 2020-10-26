@@ -20,91 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UdemySpringLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringAnnotationExample05March/KabaddiCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/SadFortuneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/Zidane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/BadTeamUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/BeanInitialiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/GoodTeamUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/RealMadrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/TeamUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/Varvade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutXml2/Zidane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringScopeAnnotationWithoutXml2/CochTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachExample27Feb/FootballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachExample27Feb/FootballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/DataBaseExample01Mar/OracleDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/DataBaseExample01Mar/OracleDataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringAnnotationExample05March/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringAnnotationExample05March/CricketCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContextAnnotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContextAnnotation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/CoackExample27Feb/CoackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/CoackExample27Feb/CoackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/CoackExample27Feb/CoackTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/CoackExample27Feb/CoackTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringAnnotationExample05March/CoachAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringAnnotationExample05March/CoachAnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/PlayerCareer.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringConstructorDependencyInjectionUsingAnnotation/PlayerCareer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringScopeAnnotationWithoutUsingXml/CoachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringScopeAnnotationWithoutUsingXml/CoachTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/Ashes.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/Ashes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/CricketCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/FootballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/FootballCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/LaLiga.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/LaLiga.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/League.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/CoachExample27Feb/League.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/DataBaseExample01Mar/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/DataBaseExample01Mar/DataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/DataBaseExample01Mar/OracleDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/DataBaseExample01Mar/OracleDataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/DataBaseExample01Mar/SQLDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/DataBaseExample01Mar/SQLDataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringAnnotationExample05March/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringAnnotationExample05March/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringAnnotationExample05March/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringAnnotationExample05March/CricketCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringAnnotationExample05March/FootBallCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringAnnotationExample05March/FootBallCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/BeanInitialiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/BeanInitialiser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/CricketCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/FortuneServive.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/FortuneServive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/HappyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringBeanDefinationUsingJava/HappyFortuneService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/Career.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/Career.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/CoachCareer.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/CoachCareer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/LionelMessi.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/LionelMessi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringConstructorDependencyInjectionUsingAnnotation/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringConstructorDependencyInjectionUsingAnnotation/PlayerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/PlayerCareer.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/PlayerCareer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/SachinTendulkar.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/SachinTendulkar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/SaniaMirza.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringConstructorDependencyInjectionUsingAnnotation/SaniaMirza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Career.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Career.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/CoachCareer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/LionelMessi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerCareer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SachinTendulkar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/SaniaMirza.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringReferenceDependencyInjectionUsingAnnotation/Varvade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/BeanInitialiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/BeanInitialiser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/CricketCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/FortuneServive.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/FortuneServive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/HappyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/HappyFortuneService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/applicationContext2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/applicationContext3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/CoackExample27Feb/CoackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/CoackExample27Feb/CoackTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/CoackExample27Feb/CoackTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/CoackExample27Feb/CoackTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/CoackExample27Feb/CoackTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/CoackExample27Feb/CoackTest3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/DataBaseExample01Mar/DataBaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/DataBaseExample01Mar/DataBaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringAnnotationExample05March/CoachAnnotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringAnnotationExample05March/CoachAnnotationTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanDefinationUsingJava/CoachTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanDefinationUsingJava/CoachTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringConstructorDependencyInjectionUsingAnnotation/PlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringConstructorDependencyInjectionUsingAnnotation/PlayerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringReferenceDependencyInjectionUsingAnnotation/PlayerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringScopeAnnotationWithoutUsingXml/CoachTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringScopeAnnotationWithoutUsingXml/CoachTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/src/test/java/org/example/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/classes/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/surefire-reports/TEST-org.example.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/surefire-reports/org.example.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/test-classes/org/example/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringMVC/target/udemySpringMVC-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,23 +115,23 @@
       <recent name="$PROJECT_DIR$/src/main/java/SpringBeanDefinationUsingJava" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SpringScopeAnnotationWithoutXml2" />
       <recent name="SpringBeanDefinationUsingJava" />
       <recent name="SpringConstructorDependencyInjectionUsingAnnotation" />
       <recent name="SpringReferenceDependencyInjectionUsingAnnotation" />
       <recent name="CoackExample27Feb" />
-      <recent name="DataBaseExample01Mar" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoachTest">
-    <configuration name="CoachAnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringAnnotationExample05March.CoachAnnotationTest" />
+  <component name="RunManager" selected="Application.CochTest">
+    <configuration name="CoachTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutUsingXml.CoachTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SpringAnnotationExample05March.*" />
+          <option name="PATTERN" value="SpringScopeAnnotationWithoutUsingXml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoackExample27Feb.CoackTest" />
+    <configuration name="CochTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutXml2.CochTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoackExample27Feb.*" />
+          <option name="PATTERN" value="SpringScopeAnnotationWithoutXml2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoackTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoackExample27Feb.CoackTest3" />
+    <configuration name="PlayerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringReferenceDependencyInjectionUsingAnnotation.PlayerTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoackExample27Feb.*" />
+          <option name="PATTERN" value="SpringReferenceDependencyInjectionUsingAnnotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataBaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataBaseExample01Mar.DataBaseTest" />
+    <configuration name="PlayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringConstructorDependencyInjectionUsingAnnotation.PlayerTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataBaseExample01Mar.*" />
+          <option name="PATTERN" value="SpringConstructorDependencyInjectionUsingAnnotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CochTest" />
+        <item itemvalue="Application.CoachTest (1)" />
+        <item itemvalue="Application.PlayerTest (1)" />
+        <item itemvalue="Application.PlayerTest" />
         <item itemvalue="Application.CoachTest" />
-        <item itemvalue="Application.CoachAnnotationTest" />
-        <item itemvalue="Application.CoackTest3" />
-        <item itemvalue="Application.DataBaseTest" />
-        <item itemvalue="Application.CoackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -282,36 +227,41 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2166" y="188" key="#com.intellij.ide.util.MemberChooser" timestamp="1603703124459">
+    <state x="545" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1603709355953">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="2166" y="188" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603707828382" />
+    <state x="545" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1603709355953" />
+    <state x="2072" y="236" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603707932858">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2166" y="188" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603703124459" />
-    <state width="1868" height="307" key="GridCell.Tab.0.bottom" timestamp="1603705732119">
+    <state x="2072" y="236" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603707932858" />
+    <state width="1868" height="307" key="GridCell.Tab.0.bottom" timestamp="1603708383675">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1603437322543" />
-    <state width="1868" height="307" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603705732119" />
+    <state width="1868" height="307" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603708383675" />
     <state width="1388" height="189" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603643383498" />
     <state width="1868" height="307" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1835.1080@1440.0.1835.1080" timestamp="1603695648817" />
-    <state width="1868" height="307" key="GridCell.Tab.0.center" timestamp="1603705732117">
+    <state width="1868" height="307" key="GridCell.Tab.0.center" timestamp="1603708383673">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1388" height="232" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1603437322541" />
-    <state width="1868" height="307" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603705732117" />
+    <state width="1868" height="307" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603708383673" />
     <state width="1388" height="189" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603643383497" />
     <state width="1868" height="307" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1835.1080@1440.0.1835.1080" timestamp="1603695648814" />
-    <state width="1868" height="307" key="GridCell.Tab.0.left" timestamp="1603705732116">
+    <state width="1868" height="307" key="GridCell.Tab.0.left" timestamp="1603708383672">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1388" height="232" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1603437322540" />
-    <state width="1868" height="307" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603705732116" />
+    <state width="1868" height="307" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603708383672" />
     <state width="1388" height="189" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603643383495" />
     <state width="1868" height="307" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1835.1080@1440.0.1835.1080" timestamp="1603695648812" />
-    <state width="1868" height="307" key="GridCell.Tab.0.right" timestamp="1603705732118">
+    <state width="1868" height="307" key="GridCell.Tab.0.right" timestamp="1603708383674">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1388" height="232" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1603437322541" />
-    <state width="1868" height="307" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603705732118" />
+    <state width="1868" height="307" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603708383674" />
     <state width="1388" height="189" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603643383498" />
     <state width="1868" height="307" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1835.1080@1440.0.1835.1080" timestamp="1603695648815" />
     <state x="2038" y="255" width="724" height="570" key="find.popup" timestamp="1603694469387">

@@ -17,7 +17,6 @@ public class CoachTest {
     coach1.getDailyWorkout();
     coach1.getDailyFortune();
     annotationConfigApplicationContext.close();
-
   }
 
 }

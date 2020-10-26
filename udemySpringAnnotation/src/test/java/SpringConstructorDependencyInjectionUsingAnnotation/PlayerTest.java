@@ -7,7 +7,7 @@ public class PlayerTest {
   public static void main(String[] args) {
     ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext("applicationContextConstDIAnnotation.xml");
 
-    Player player = classPathXmlApplicationContext.getBean("lionelMessi",Player.class);
+    Player player = classPathXmlApplicationContext.getBean("zidane",Player.class);
 
     String game = player.game();
     System.out.println("Player Game :"+game);

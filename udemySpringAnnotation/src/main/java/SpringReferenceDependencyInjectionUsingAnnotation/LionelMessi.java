@@ -2,6 +2,7 @@ package SpringReferenceDependencyInjectionUsingAnnotation;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
 
 /*
@@ -11,7 +12,7 @@ Example :- ClassName :- LionelMessi
             Bean id Name :- lionelMessi
  */
 
-@Component
+@Component @Lazy
 public class LionelMessi implements Player {
 
   @Qualifier("playerCareer")
