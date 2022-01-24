@@ -23,15 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="Initial Commit 2022">
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/BeanInitialise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/DeviceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/DigitalDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanAnnotationJan2022/DigitalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/BeanInitialiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/DeviceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/DigitalDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/NonSmartRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/SmartRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutUsingXml/SadFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/AnnotationPractice2022/AnnotationTest2022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanDefinationUsingJava/CoachTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanDefinationUsingJava/CoachTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutUsingXml/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutUsingXml/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanAnnotationJan2022/DigitalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanAnnotationJan2022/DigitalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/CricketCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanAnnotationJan2022/DigitalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanAnnotationJan2022/DigitalTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,33 +120,20 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AnnotationPractice2022" />
+      <recent name="SpringScopeAnnotationWithoutUsingXml" />
       <recent name="SpringScopeAnnotationWithoutXml2" />
       <recent name="SpringBeanDefinationUsingJava" />
       <recent name="SpringConstructorDependencyInjectionUsingAnnotation" />
-      <recent name="SpringReferenceDependencyInjectionUsingAnnotation" />
-      <recent name="CoackExample27Feb" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DigitalTest">
-    <configuration name="CoachAnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringAnnotationExample05March.CoachAnnotationTest" />
+  <component name="RunManager" selected="Application.AnnotationTest2022">
+    <configuration name="AnnotationTest2022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnnotationPractice2022.AnnotationTest2022" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SpringAnnotationExample05March.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoachTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringBeanDefinationUsingJava.CoachTest" />
-      <module name="udemySpringAnnotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SpringBeanDefinationUsingJava.*" />
+          <option name="PATTERN" value="AnnotationPractice2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="CoachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoachPractice2022Jan.CoachTest" />
+      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutUsingXml.CoachTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoachPractice2022Jan.*" />
+          <option name="PATTERN" value="SpringScopeAnnotationWithoutUsingXml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoackTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoackExample27Feb.CoackTest3" />
+    <configuration name="CochTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutXml2.CochTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoackExample27Feb.*" />
+          <option name="PATTERN" value="SpringScopeAnnotationWithoutXml2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,13 +180,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringReferenceDependencyInjectionUsingAnnotation.PlayerTest" />
+      <module name="udemySpringAnnotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SpringReferenceDependencyInjectionUsingAnnotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DigitalTest" />
-        <item itemvalue="Application.CoachTest (2)" />
-        <item itemvalue="Application.CoachAnnotationTest" />
+        <item itemvalue="Application.AnnotationTest2022" />
         <item itemvalue="Application.CoachTest" />
-        <item itemvalue="Application.CoackTest3" />
+        <item itemvalue="Application.PlayerTest" />
+        <item itemvalue="Application.CochTest" />
+        <item itemvalue="Application.DigitalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,11 +258,6 @@
           <url>file://$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/Ashes.java</url>
           <line>25</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java</url>

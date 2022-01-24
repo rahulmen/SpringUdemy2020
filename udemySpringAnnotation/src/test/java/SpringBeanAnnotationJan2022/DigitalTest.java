@@ -21,6 +21,5 @@ public class DigitalTest {
         annotationConfigApplicationContext.close();
 
 
-
     }
 }
