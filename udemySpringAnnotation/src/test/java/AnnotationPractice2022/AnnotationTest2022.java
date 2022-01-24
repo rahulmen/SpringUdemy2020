@@ -14,6 +14,12 @@ public class AnnotationTest2022 {
         System.out.println(digitalDevice.price());
         System.out.println(digitalDevice.isRemote());
         System.out.println(digitalDevice.type());
+        System.out.println("=======");
+        DigitalDevice digitalDevice1 = annotationConfigApplicationContext.getBean("television",DigitalDevice.class);
+        System.out.println(digitalDevice1.brand());
+        System.out.println(digitalDevice1.price());
+        System.out.println(digitalDevice1.isRemote());
+        System.out.println(digitalDevice1.type());
         annotationConfigApplicationContext.close();
     }
 }

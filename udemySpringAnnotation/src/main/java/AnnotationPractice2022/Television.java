@@ -10,9 +10,11 @@ import org.springframework.stereotype.Component;
 @Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 public class Television implements DigitalDevice{
 
-    @Qualifier("smartRemote")
-    @Autowired
     Remote remote;
+
+    public Television(Remote remote) {
+        this.remote = remote;
+    }
 
     @Override
     public boolean isRemote() {

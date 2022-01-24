@@ -23,21 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="Initial Commit 2022">
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/BeanInitialiser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/DeviceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/DigitalDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/NonSmartRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/SmartRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutUsingXml/SadFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/AnnotationPractice2022/AnnotationTest2022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutUsingXml/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringScopeAnnotationWithoutUsingXml/CricketCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanAnnotationJan2022/DigitalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanAnnotationJan2022/DigitalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/SpringScopeAnnotationWithoutUsingXml/CricketCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanAnnotationJan2022/DigitalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanAnnotationJan2022/DigitalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/BeanInitialiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/BeanInitialiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/AnnotationPractice2022/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/AnnotationPractice2022/AnnotationTest2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/AnnotationPractice2022/AnnotationTest2022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/AnnotationPractice2022/BeanInitialiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/AnnotationPractice2022/BeanInitialiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/AnnotationPractice2022/Television.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/AnnotationPractice2022/Television.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/AnnotationPractice2022/AnnotationTest2022.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/AnnotationPractice2022/AnnotationTest2022.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

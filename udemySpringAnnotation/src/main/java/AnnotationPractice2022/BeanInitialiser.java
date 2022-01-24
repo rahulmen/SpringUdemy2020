@@ -1,5 +1,6 @@
 package AnnotationPractice2022;
 
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 
 import javax.annotation.PostConstruct;
@@ -11,6 +12,11 @@ public class BeanInitialiser {
     @PostConstruct
     public void postConstructorMessage(){
         System.out.println("Bean Initialisee");
+    }
+
+    @Bean
+    public Television television(){
+        return new Television(new SmartRemote());
     }
 
     @PreDestroy
