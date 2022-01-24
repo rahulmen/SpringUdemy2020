@@ -22,27 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/Ashes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/CricketCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/FootballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/Laliga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/applicationContext2022.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/CoachPractice2022Jan/CoachTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="6eb2c7d1-04d2-4b13-95f5-050d924dfdf6" name="Default Changelist" comment="Initial Commit 2022">
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/BeanInitialise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/DeviceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/DigitalDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanAnnotationJan2022/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanAnnotationJan2022/DigitalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemySpringLearning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/coachPersonalData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/resources/coachPersonalData.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/META-INF/udemySpringAnnotation.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/coachPersonalData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/classes/coachPersonalData.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/udemySpringAnnotation-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/udemySpringAnnotation-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanDefinationUsingJava/CoachTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/udemySpringAnnotation/target/test-classes/SpringBeanDefinationUsingJava/CoachTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +49,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -131,13 +121,26 @@
       <recent name="CoackExample27Feb" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoachTest">
-    <configuration name="CoachTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutUsingXml.CoachTest" />
+  <component name="RunManager" selected="Application.DigitalTest">
+    <configuration name="CoachAnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringAnnotationExample05March.CoachAnnotationTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SpringScopeAnnotationWithoutUsingXml.*" />
+          <option name="PATTERN" value="SpringAnnotationExample05March.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoachTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringBeanDefinationUsingJava.CoachTest" />
+      <module name="udemySpringAnnotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SpringBeanDefinationUsingJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,25 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CochTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringScopeAnnotationWithoutXml2.CochTest" />
+    <configuration name="DigitalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringBeanAnnotationJan2022.DigitalTest" />
       <module name="udemySpringAnnotation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SpringScopeAnnotationWithoutXml2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlayerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringReferenceDependencyInjectionUsingAnnotation.PlayerTest" />
-      <module name="udemySpringAnnotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SpringReferenceDependencyInjectionUsingAnnotation.*" />
+          <option name="PATTERN" value="SpringBeanAnnotationJan2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitalTest" />
+        <item itemvalue="Application.CoachTest (2)" />
+        <item itemvalue="Application.CoachAnnotationTest" />
         <item itemvalue="Application.CoachTest" />
         <item itemvalue="Application.CoackTest3" />
-        <item itemvalue="Application.CochTest" />
-        <item itemvalue="Application.CoachTest (1)" />
-        <item itemvalue="Application.PlayerTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +212,14 @@
       <workItem from="1641737626042" duration="84000" />
       <workItem from="1642935851339" duration="3929000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit 2022">
+      <created>1643040479980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643040479980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +236,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit 2022" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -250,6 +252,19 @@
           <url>file://$PROJECT_DIR$/udemySpringAnnotation/src/main/java/CoachPractice2022Jan/Ashes.java</url>
           <line>25</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemySpringAnnotation/src/test/java/SpringBeanDefinationUsingJava/CoachTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/udemySpringAnnotation/src/main/java/SpringBeanDefinationUsingJava/BeanInitialiser.java</url>
+          <line>23</line>
+          <properties class="SpringBeanDefinationUsingJava.BeanInitialiser" method="headCricketCoach">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
